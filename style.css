@@ -59,6 +59,11 @@ span{
   
 
  }
+
+ .card-body {
+  padding: 20px;
+}
+
  .card-tall{
     grid-row: span 2 / auto;
 
