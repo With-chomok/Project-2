@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.button1{
+
+        background-color: #FE8C45; 
+        border: none;
+        color: white;
+        width: 187px;
+        height: 52px;
+        justify-content: end;
+        text-align: center;
+        text-decoration: none;
+        padding: 0.1rem;
+        font-size: 16px;
+        margin:0 3vw;
+        cursor: pointer;
+        border-radius: 90px;
+      
+}
+#button2{
+   
+    background-color: #FE8C45;
+    color: white;
+    font-family: nexa;
+}
+.navbar{
+    font-family: "Quicksand", sans-serif;
+}
+
+span{
+    color: rgba(138, 71, 246, 1);
+}
+ 
